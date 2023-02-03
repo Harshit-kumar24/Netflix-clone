@@ -1,2 +1,1 @@
-# Netflix-clone
-created netflix clone using react.js
+# switch to main branch
